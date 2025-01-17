@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: #f0f0f0;
+}
+
+.welcome-container {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+  margin-top: 15%;
+}
+
+#play-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#play-button:hover {
+  background-color: #3e8e41;
+}
